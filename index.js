@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 const readline = require('readline');
 
 // ===== CONFIG JO TU CHANGE KAR SAKTA HAI =====
-const SERVER_HOST     = 'PesWorld.aternos.me';
-const SERVER_PORT     = 61278;
+const SERVER_HOST     = 'pvtdode.aternos.me';
+const SERVER_PORT     = 27256;
 const BOT_USERNAME    = 'PesuKa_Bacha';
 const MC_VERSION      = '1.21.11';
 const DEFAULT_COMMAND = 'register https://minesk.in/b8b8c24d88444f38913bdf82fbe3f0e3 https://minesk.in/b8b8c24d88444f38913bdf82fbe3f0e3';
